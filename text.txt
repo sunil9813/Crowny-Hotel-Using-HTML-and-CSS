@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+font-family: "Poppins", sans-serif;
+background: #7FC142;
+
+
+
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+Lorem ipsum dolor sit amet constur adipisicing elit sed do eiusmtem por incid.
+<p>Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolor magna aliqua.</p>
+
+1201 park street, Avenue, Dhanmondy, Dhaka. 
+[88] 657 524 332
+info@dentar.com
+
+
+
+
+
+
+
+<script src="https://kit.fontawesome.com/032d11eac3.js" crossorigin="anonymous"></script>
